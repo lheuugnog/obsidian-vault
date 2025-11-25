@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "AI Ethics and its usefulness"
             }
+          },
+          {
+            "id": "75081024cd60a9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,8 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b52785a0879e55d7",
+  "active": "75081024cd60a9a3",
   "lastOpenFiles": [
+    "AI Ethics and its usefulness.md",
+    "test git.md",
     "Assessment 3 Critical Reflection.md",
     "COMM2222 Panel Discussion Script.md",
     "Courses?.md",
@@ -201,7 +217,6 @@
     "Moral gambits and moral responsibility.md",
     "Procurement and sustainability.md",
     "Natural Resources and Ownership Thereof.md",
-    "AI Ethics and its usefulness.md",
     "The alleged social construction of leadership identity.md",
     "Statistical and causal models of explanation.md",
     "Essay 2 😭.md",
@@ -229,7 +244,6 @@
     "Tic-tac-toe/tic-tac-toe/node_modules/caniuse-lite/data/regions/YE.js",
     "Tic-tac-toe/tic-tac-toe/node_modules/eslint/README.md",
     "Tic-tac-toe/tic-tac-toe/node_modules/@esbuild/darwin-arm64/README.md",
-    "Tic-tac-toe/tic-tac-toe/node_modules/react-dom/README.md",
     "Tic-tac-toe/tic-tac-toe/src/assets/react.svg",
     "Tic-tac-toe/tic-tac-toe/public/vite.svg"
   ]
