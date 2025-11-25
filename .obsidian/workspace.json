@@ -205,8 +205,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75081024cd60a9a3",
+  "active": "905d0b8b4f07f073",
   "lastOpenFiles": [
+    "~syncthing~test git.md.tmp",
     "AI Ethics and its usefulness.md",
     "test git.md",
     "Assessment 3 Critical Reflection.md",
@@ -243,7 +244,6 @@
     "Tic-tac-toe/tic-tac-toe/node_modules/caniuse-lite/data/regions/YT.js",
     "Tic-tac-toe/tic-tac-toe/node_modules/caniuse-lite/data/regions/YE.js",
     "Tic-tac-toe/tic-tac-toe/node_modules/eslint/README.md",
-    "Tic-tac-toe/tic-tac-toe/node_modules/@esbuild/darwin-arm64/README.md",
     "Tic-tac-toe/tic-tac-toe/src/assets/react.svg",
     "Tic-tac-toe/tic-tac-toe/public/vite.svg"
   ]
