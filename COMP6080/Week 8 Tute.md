@@ -48,5 +48,4 @@ useEffect(() => {
 ```
 
 
-## Tic-tac-toe
-
+* Exam Q: would have a counter for number of times won (set local storage)
