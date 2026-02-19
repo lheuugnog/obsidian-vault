@@ -17,7 +17,7 @@
 - [x] Slippers/flip-flops
 ## other stuffs i be bringing
 - [x] Camera
-- [ ] Camera batteries
+- [x] Camera batteries
 - [x] Tripod if i rmb
 - [x] Drone
 - [x] Drone accessories & batteries
