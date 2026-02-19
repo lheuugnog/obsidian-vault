@@ -35,7 +35,8 @@
               "title": "X100VI Accessories"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f4c03220670be58",
+  "active": "5515b4f158c1082e",
   "lastOpenFiles": [
+    "Astro Notes.md",
+    "RT Stuffs n Packing List.md",
     "Statistical and causal models of explanation.md",
     "test git.md",
-    "RT Stuffs n Packing List.md",
     "Procurement and sustainability.md",
     "Normative Ethics.md",
     "Courses .md",
@@ -223,7 +225,6 @@
     "7. Menlo Principles and Normative Ethics.md",
     "desktop.ini",
     "COMP6080/Week 9 Tute.md",
-    "2025-11-05.md",
     "COMP6080",
     "Untitled.canvas",
     "Tic-tac-toe/tic-tac-toe/package-lock.json",
