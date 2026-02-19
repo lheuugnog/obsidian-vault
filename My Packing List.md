@@ -42,6 +42,10 @@
 - Going to Hyam's Beach would be nice
 ### Sunday
 
+**Nearby**
+* Hyam's Beach
+* white sands walk
+
 **Booderee National Park**
 - $20 day pass per vehicle
 - Cave Beach (some kangaroos too)
