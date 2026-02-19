@@ -3,22 +3,24 @@
 - [x] Towel
 - [x] Swimmers
 - [ ] Toiletries
-- [ ] Goggles?
+- [x] Goggles?
 - [x] sleeping bag (or bedsheets)
 - [ ] pillow case
-- [ ] Some card games, board games, forms of entertainment, switch
+- [x] hat
+- [x] Some card games, board games, forms of entertainment, switch
 - [ ] Snacks
 - [ ] Power strip
-- [ ] Picnic mat
+- [x] Picnic mat
 - [ ] Electronics + chargers
 - [ ] Plastic bags
-- [ ] Other bags for convenience
-- [ ] Slippers/flip-flops
+- [x] Other bags for convenience
+- [x] Slippers/flip-flops
 ## other stuffs i be bringing
-- [ ] Camera
+- [x] Camera
+- [ ] Camera batteries
 - [x] Tripod if i rmb
 - [ ] Drone
-- [ ] Drone and camera batteries and chargers
+- [ ] Drone accessories & batteries
 - [x] 10 cans of somersby 6 cans beer
 - [ ]  Some snacks
 - [x]  i can’t be bothered to ~~bring my vr~~
