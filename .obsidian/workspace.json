@@ -35,8 +35,7 @@
               "title": "X100VI Accessories"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5515b4f158c1082e",
+  "active": "3f4c03220670be58",
   "lastOpenFiles": [
+    "X100VI Accessories.md",
     "Astro Notes.md",
     "RT Stuffs n Packing List.md",
     "Statistical and causal models of explanation.md",
@@ -206,7 +206,6 @@
     "Natural Resources and Ownership Thereof.md",
     "Bali.md",
     "COMM2222 Panel Discussion Script.md",
-    "X100VI Accessories.md",
     "conflict-files-obsidian-git.sync-conflict-20260219-112637-B7QLD5X.md",
     "conflict-files-obsidian-git.md",
     "~syncthing~conflict-files-obsidian-git.sync-conflict-20260219-112637-B7QLD5X.md.tmp",

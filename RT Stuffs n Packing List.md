@@ -8,21 +8,21 @@
 - [ ] pillow case
 - [x] hat
 - [x] Some card games, board games, forms of entertainment, switch
-- [ ] Snacks
+- [x] Snacks
 - [ ] Power strip
 - [x] Picnic mat
 - [ ] Electronics + chargers
-- [ ] Plastic bags
+- [x] Plastic bags
 - [x] Other bags for convenience
 - [x] Slippers/flip-flops
 ## other stuffs i be bringing
 - [x] Camera
 - [ ] Camera batteries
 - [x] Tripod if i rmb
-- [ ] Drone
-- [ ] Drone accessories & batteries
+- [x] Drone
+- [x] Drone accessories & batteries
 - [x] 10 cans of somersby 6 cans beer
-- [ ]  Some snacks
+- [x]  Some snacks
 - [x]  i can’t be bothered to ~~bring my vr~~
 
 ## Plans
