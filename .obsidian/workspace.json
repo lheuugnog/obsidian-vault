@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "My Packing List"
             }
+          },
+          {
+            "id": "61b9ec353b187d16",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,12 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3dce05da329724c",
+  "active": "61b9ec353b187d16",
   "lastOpenFiles": [
+    "Natural Resources and Ownership Thereof.md",
+    "My Packing List.md",
     "conflict-files-obsidian-git.md",
     "conflict-files-obsidian-git.sync-conflict-20260219-112637-B7QLD5X.md",
     "~syncthing~conflict-files-obsidian-git.sync-conflict-20260219-112637-B7QLD5X.md.tmp",
-    "My Packing List.md",
     "Moral gambits and moral responsibility.md",
     "Essay 2 😭.md",
     "Courses .md",
@@ -229,7 +242,6 @@
     "Assessment 3 Critical Reflection.md",
     "Courses?.md",
     "Procurement and sustainability.md",
-    "Natural Resources and Ownership Thereof.md",
     "The alleged social construction of leadership identity.md",
     "Statistical and causal models of explanation.md",
     "Normative Ethics.md",
