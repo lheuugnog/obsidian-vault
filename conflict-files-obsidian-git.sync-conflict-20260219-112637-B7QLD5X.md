@@ -3,7 +3,7 @@ Please resolve them and commit them using the commands `Git: Commit all changes`
 (This file will automatically be deleted before commit)
 [[#Additional Instructions]] available below file list
 
-- [[My Packing List]]
+- [[RT Stuffs n Packing List]]
 - Not a file: .obsidian/plugins/various-complements/histories.json
 
 # Additional Instructions
