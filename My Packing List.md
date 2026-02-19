@@ -1,35 +1,35 @@
 ## Good Stuff in General
-clothing for 3 days 2 nights (mebbe spares and pjs too)
+- [ ] Clothing for 3 days 2 nights (mebbe spares and pjs too)
 towel
-Swimmers
-Goggles?
-sleeping bag (or bedsheets)
-pillow case
-some card games, board games, forms of entertainment, switch
-snacks
-power strip
-picnic mat
-chargers for electronics
+- [ ] Swimmers
+- [ ] Toiletries
+- [ ] Goggles?
+- [ ] sleeping bag (or bedsheets)
+- [ ] pillow case
+- [ ] Some card games, board games, forms of entertainment, switch
+- [ ] Snacks
+- [ ] Power strip
+- [ ] Picnic mat
+- [ ] Electronics + chargers
 ## My Own Stuff
-Camera
-Tripod if i rmb
-Drone
-Drone and camera batteries and chargers
-i can’t be bothered to bring my vr
+* Camera
+* Tripod if i rmb
+* Drone
+* Drone and camera batteries and chargers
+* i can’t be bothered to ~~bring my vr~~
 
 ## Stuff to Buy
-food
-drinks
-bbq?
+* Stuff to cook with BBQ ie meat
 
 ## Activities
 Hyam’s Beach
 
 ## Itinerary
-Day 1
+
+### Friday
 idk just do whatever
 
-Day 2
+### Saturday
 morning ish - bbq
 hyams beach
 
@@ -37,7 +37,8 @@ spend most of time in callala beach
 sandcastle building?
 kayaking
 
-Day 3
+### Sunday
 on the way back
 white sands walk
 booderee national park kangaroos?
+* Places to stop on the way back?

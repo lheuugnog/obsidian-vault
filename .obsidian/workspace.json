@@ -39,15 +39,14 @@
             "id": "c3dce05da329724c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/themes/Material Ocean/manifest.json",
-                "bFile": ".obsidian/themes/Material Ocean/manifest.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "My Packing List.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: manifest.json  (Index)"
+              "icon": "lucide-file",
+              "title": "My Packing List"
             }
           }
         ],
@@ -170,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "My Packing List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of My Packing List"
             }
           },
           {
@@ -210,17 +210,18 @@
   },
   "active": "c3dce05da329724c",
   "lastOpenFiles": [
+    "Moral gambits and moral responsibility.md",
+    "Essay 2 😭.md",
+    "Courses .md",
+    "COMM2222 Panel Discussion Script.md",
+    "Bali.md",
     "conflict-files-obsidian-git.md",
     "X100VI Accessories.md",
     "My Packing List.md",
     "~syncthing~My Packing List.md.tmp",
     "test git.md",
-    "COMM2222 Panel Discussion Script.md",
-    "Moral gambits and moral responsibility.md",
-    "Essay 2 😭.md",
     "The Menlo Principles and Normative Ethics.md",
     "Virtue ethics and metaethical moral subjectivism.md",
-    "Bali.md",
     "AI Ethics and its usefulness.md",
     "Untitled Kanban.md",
     "Assessment 3 Critical Reflection.md",
@@ -234,7 +235,6 @@
     "COMP6080/Week 8 Tute.md",
     "7. Menlo Principles and Normative Ethics.md",
     "desktop.ini",
-    "Courses .md",
     "COMP6080/Week 9 Tute.md",
     "2025-11-05.md",
     "Welcome.md",
