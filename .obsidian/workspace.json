@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test git.md",
+                "file": "RT Stuffs n Packing List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test git"
+              "title": "RT Stuffs n Packing List"
             }
           },
           {
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "X100VI Accessories"
             }
-          },
-          {
-            "id": "c3dce05da329724c",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "My Packing List.md",
-                "bFile": "My Packing List.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: My Packing List  (Working Tree)"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,31 +193,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3dce05da329724c",
+  "active": "3f4c03220670be58",
   "lastOpenFiles": [
+    "Statistical and causal models of explanation.md",
+    "test git.md",
     "RT Stuffs n Packing List.md",
+    "Procurement and sustainability.md",
+    "Normative Ethics.md",
+    "Courses .md",
     "Natural Resources and Ownership Thereof.md",
-    "conflict-files-obsidian-git.md",
+    "Bali.md",
+    "COMM2222 Panel Discussion Script.md",
+    "X100VI Accessories.md",
     "conflict-files-obsidian-git.sync-conflict-20260219-112637-B7QLD5X.md",
+    "conflict-files-obsidian-git.md",
     "~syncthing~conflict-files-obsidian-git.sync-conflict-20260219-112637-B7QLD5X.md.tmp",
     "Moral gambits and moral responsibility.md",
     "Essay 2 😭.md",
-    "Courses .md",
-    "COMM2222 Panel Discussion Script.md",
-    "Bali.md",
-    "X100VI Accessories.md",
     "~syncthing~My Packing List.md.tmp",
-    "test git.md",
     "The Menlo Principles and Normative Ethics.md",
     "Virtue ethics and metaethical moral subjectivism.md",
     "AI Ethics and its usefulness.md",
     "Untitled Kanban.md",
     "Assessment 3 Critical Reflection.md",
     "Courses?.md",
-    "Procurement and sustainability.md",
     "The alleged social construction of leadership identity.md",
-    "Statistical and causal models of explanation.md",
-    "Normative Ethics.md",
     "Task Board.md",
     "COMP6080/Week 8 Tute.md",
     "7. Menlo Principles and Normative Ethics.md",

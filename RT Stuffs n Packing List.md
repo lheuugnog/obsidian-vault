@@ -1,24 +1,27 @@
 ## Good Stuff in General
-- [ ] Clothing for 3 days 2 nights (mebbe spares and pjs too)
-- [ ] Towel
-- [ ] Swimmers
+- [x] Clothing for 3 days 2 nights (mebbe spares and pjs too)
+- [x] Towel
+- [x] Swimmers
 - [ ] Toiletries
 - [ ] Goggles?
-- [ ] sleeping bag (or bedsheets)
+- [x] sleeping bag (or bedsheets)
 - [ ] pillow case
 - [ ] Some card games, board games, forms of entertainment, switch
 - [ ] Snacks
 - [ ] Power strip
 - [ ] Picnic mat
 - [ ] Electronics + chargers
+- [ ] Plastic bags
+- [ ] Other bags for convenience
+- [ ] Slippers/flip-flops
 ## other stuffs i be bringing
-* Camera
-* Tripod if i rmb
-* Drone
-* Drone and camera batteries and chargers
-* 10 cans of somersby 6 cans beer
-* Some snacks
-* i can’t be bothered to ~~bring my vr~~
+- [ ] Camera
+- [x] Tripod if i rmb
+- [ ] Drone
+- [ ] Drone and camera batteries and chargers
+- [x] 10 cans of somersby 6 cans beer
+- [ ]  Some snacks
+- [x]  i can’t be bothered to ~~bring my vr~~
 
 ## Plans
 
